@@ -2,8 +2,8 @@
 A Paintball Sentry controlled by two potentiometers and a pushbutton or 5 buttons.
 
 Project Members:
-ruckers10
-sipleyr
+ruckers10,
+sipleyr,
 kenexsis
 
 Parts List For Servo Controls:
