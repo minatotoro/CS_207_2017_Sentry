@@ -17,9 +17,25 @@
  *    2 potentiometers
  *    1 or 5 pushbuttons
  *    4 AA's or 6V power supply for the servos
+ *    Arduino Uno R3
  *    
  *  Notes:
  *    Servo range is from 0 - 180 degrees
+ *    Check the circuit diagram to see how the parts are wired
+ *
+ *    x axis servo - pin 8
+ *    y axis servo - pin 9
+ *    trigger servo - pin 10
+ *
+ *    x axis potentiometer pin - A0
+ *    y axis potentiometer pin - A1
+ *    trigger button pin - 6
+ *
+ *    if using buttons,
+ *    up button pin - 2
+ *    down button pin - 3
+ *    left button pin - 4
+ *    right button pin - 5
  */
 #include <Servo.h>
 
